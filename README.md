@@ -19,7 +19,7 @@ que permite o fácil acesso às API's nativas do dispositivo, sem precisar insta
 E a Expo Go também, que é o responsável por pegar o código que o metro bundler envia e exibir em tela o seu app React Native.
 
 
-⇨ Por fim, commitamos tudo pra cá, fizemos o deploy do front-end, no Vercel. O deploy do back-end pelo Railway.
+⇨ Por fim, commitamos tudo pra cá, fizemos o deploy do front-end no Vercel, e o deploy do back-end pelo Railway.
 
 
 
