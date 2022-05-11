@@ -1,11 +1,10 @@
-# Nlw Return -  Impulse / Rocketseat 2022
+# Nlw Return -  Impulse / Rocketseat 2022 🚀🚀🚀
 
-Essa MEGA aplicação, foi desenvolvida em 5 dias pela Rocketseat.  💥🚀  
-
-
+Essa MEGA aplicação, foi desenvolvida em 5️⃣ dias pela Rocketseat.  💥⚡️🚀  
 
 
-⇨ O desenvolvimento da aplicação front-end💻é em ReactJS; Utilizando também o TailwindCSS, Headless UI, 
+
+⇨ O desenvolvimento da aplicação front-end💻é toda em ReactJS; Utilizando também o TailwindCSS, Headless UI, 
 conceitos de acessibilidade, componentes, propriedades, estado, conceitos de passagem de funções, como propriedades, e criar o fluxo 
 de navegação para envio de feedbacks e muito, muito mais.
 
@@ -25,7 +24,7 @@ E a Expo Go também, que é o responsável por pegar o código que o metro bundl
 
 
 
-# Tecnologias 💻
+# Tecnologias 👩‍💻
 
 
 ▪️ ReactJS
