@@ -14,7 +14,7 @@ describe('Submit feedback', () => {
       submitFeedback.execute({
         type: 'BUG',
         comment: 'example comment',
-        screenshot: 'data:image/png;base64,812egsuBafhasufhn12i3u',
+        screenshot: 'data:image/png;base64,asm.djnfm,ncv,mnajklsdhfajsdnflmtest.jpg',
       }),
     ).resolves.not.toThrow();
 
@@ -27,7 +27,7 @@ describe('Submit feedback', () => {
       submitFeedback.execute({
         type: '',
         comment: 'example comment',
-        screenshot: 'data:image/png;base64,812egsuBafhasufhn12i3u',
+        screenshot: 'data:image/png;base64,asm.djnfm,ncv,mnajklsdhfajsdnflmtest.jpg',
       }),
     ).rejects.toThrow();
   });
@@ -37,7 +37,7 @@ describe('Submit feedback', () => {
       submitFeedback.execute({
         type: 'BUG',
         comment: '',
-        screenshot: 'test.jpg',
+        screenshot: 'data:image/png;base64,asm.djnfm,ncv,mnajklsdhfajsdnflmtest.jpg',
       }),
     ).rejects.toThrow();
   });
@@ -46,7 +46,7 @@ describe('Submit feedback', () => {
     await expect(
       submitFeedback.execute({
         type: 'BUG',
-        comment: 'Tá tudo bugado!!!',
+        comment: 'ta tudo bugado',
         screenshot: 'test.jpg',
       }),
     ).rejects.toThrow();
